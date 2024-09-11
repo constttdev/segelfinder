@@ -12,7 +12,8 @@ export default {
 				background: '#f8fafc',
 				primary: '#5790c1',
 				secondary: '#9bc1e2',
-				accent: '#60a2dc'
+				accent: '#60a2dc',
+				graywhite: '#f5f5f5'
 			}
 		}
 	},
